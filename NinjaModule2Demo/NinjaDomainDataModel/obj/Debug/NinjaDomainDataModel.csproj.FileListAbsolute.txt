@@ -1,0 +1,14 @@
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll.config
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.pdb
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\EntityFramework.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\EntityFramework.xml
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csprojAssemblyReference.cache
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.CoreCompileInputs.cache
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.CopyComplete
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.pdb

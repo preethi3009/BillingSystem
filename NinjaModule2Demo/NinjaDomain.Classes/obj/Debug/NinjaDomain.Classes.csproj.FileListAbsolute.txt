@@ -1,0 +1,6 @@
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojAssemblyReference.cache
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\PK185206\source\repos\NinjaModule2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb

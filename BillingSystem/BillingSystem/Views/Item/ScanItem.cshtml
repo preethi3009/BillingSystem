@@ -1,0 +1,40 @@
+﻿@model BillingSystem.Models.Item
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<body>
+    @using (Html.BeginForm("AddItem", "Item", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="container">
+            <h1 align="center">BILLING SYSTEM</h1>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <form>
+                <div class="form-group">
+
+                    <div class="col-md-10">
+                        <label class="control-label col-sm-6" for="email">ItemCode:</label>
+                        @Html.EditorFor(model => model.ItemCode, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ItemCode, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-sm-offset-6">
+                        <input type="submit" value="Scan" class="btn btn-default" />
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    }
+
+</body>
